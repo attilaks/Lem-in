@@ -1,5 +1,5 @@
 # lem-in
-ant farm for 42
+ant farm for 42. Read more in lem-in.en.pdf
 
 • The goal of this project is to find the quickest way to get n ants across the farm.
 
