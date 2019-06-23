@@ -24,7 +24,7 @@ the receiving end must be empty).
 
 • You must to display your results on the standard output in the following format:
 
-  number_of_ants
+  number_of_ants\n
   the_rooms
   the_links
   Lx-y Lz-w Lr-o ...
